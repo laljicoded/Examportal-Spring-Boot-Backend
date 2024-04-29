@@ -15,3 +15,5 @@
 ![Screenshot (48)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/f9f33034-f4c6-47bb-925e-cdd5f2e775b7)
 ![Screenshot (49)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/d1eff689-1101-42a6-bd8a-6bdb7fb80e7e)
 
+![Screenshot (50)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/c2d7480f-be60-43f2-ab58-8dbbf76834d1)
+
