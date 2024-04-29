@@ -1,18 +1,1 @@
-#Sprinboot Project with Angular.
-#OutPut
-![Screenshot (41)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/e2e9b54c-5a1a-480f-acac-37bf756efbe8)
-![Screenshot (56)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/b04538a1-1898-4a5b-9663-90b35367bc5d)
-![Screenshot (55)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/002e3589-7edb-497e-950a-2679b24c374f)
-![Screenshot (54)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/cd74224e-a048-4091-b4c2-a02b253313d6)
-![Screenshot (53)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/e09e101e-2f9c-4020-a461-88df4690ad07)
-![Screenshot (52)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/68a20ae1-2450-4a43-912d-b64ac9e9e633)
-![Screenshot (51)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/fe016cdb-c54e-4de2-a773-5a240096ef7f)
-![Screenshot (50)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/0d3dafc4-7d49-48f6-ac5c-98683703d971)
-![Screenshot (49)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/e77ecc3d-e0d8-4e66-ad7b-30f597d4afb8)
-![Screenshot (48)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/b775cdad-a71f-4947-b4e0-5b1d4ea025da)
-![Screenshot (47)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/26d7e32d-25d0-4471-870b-1d12edfa671e)
-![Screenshot (46)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/72256d74-4bb2-4088-a5ad-52182762a7ca)
-![Screenshot (45)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/2b91c4cc-c4d9-4a48-a9b5-a242d11c0846)
-![Screenshot (44)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/6aed578a-5a35-4b6a-8fb4-63f5b6869590)
-![Screenshot (43)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/1468e2c6-f730-4229-ba5e-a42b959e1e3c)
-![Screenshot (42)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/489c8d75-e124-4fba-a087-bf37346fe640)
+
