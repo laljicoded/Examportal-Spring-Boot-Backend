@@ -17,6 +17,8 @@ This is Admin Panel UserName & Password provide by backend..............
 
 ![Screenshot (50)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/c2d7480f-be60-43f2-ab58-8dbbf76834d1)
 
+This is User panel Register and login by self..........
+
 ![Screenshot (51)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/7afb9eeb-85d6-4eb5-86d2-fc500f1e37f9)
 ![Screenshot (52)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/c594f795-efe9-4efe-834f-79518a10b89d)
 ![Screenshot (53)](https://github.com/laljicoded/Examportal-Spring-Boot-Backend/assets/115393188/323c239b-4cd5-4701-9214-94efe587a8fc)
